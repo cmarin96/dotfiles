@@ -1,0 +1,7 @@
+# Composer
+picom &
+# Wallpaper
+sh ~/.fehbg &
+# Vertical monitors
+# sh ~/.screenlayout/vertical-monitors.sh &
+
