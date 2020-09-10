@@ -3,5 +3,5 @@ picom &
 # Wallpaper
 sh ~/.fehbg &
 # Vertical monitors
-# sh ~/.screenlayout/vertical-monitors.sh &
-
+sleep 3
+sh ~/.screenlayout/vertical-monitors.sh
