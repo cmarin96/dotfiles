@@ -1,0 +1,19 @@
+{
+  "npm.binPath": "/home/marin/.nvm/versions/node/v15.5.1/bin/yarn",
+  "tsserver.tsdk": ".yarn/sdks/typescript/lib",
+  "eslint.packageManager": "yarn",
+  "eslint.nodePath": ".yarn/sdks",
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "graphql",
+    "javascript",
+    "javascriptreact",
+    "json",
+    "less",
+    "markdown",
+    "rust",
+    "scss",
+    "typescript",
+    "typescriptreact"
+  ]
+}

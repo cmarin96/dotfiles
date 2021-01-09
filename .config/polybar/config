@@ -300,8 +300,8 @@ format-disconnected =
 type = internal/date
 interval = 5
 
-date =
-date-alt = " %Y-%m-%d"
+date = "%d-%m-%Y"
+date-alt = "%Y-%m-%d"
 
 time = %H:%M
 time-alt = %H:%M:%S
@@ -473,3 +473,9 @@ inherit = bar/mybar
 
 ; Use $ xrandr -q | grep " connected" | cut -d ' ' -f1
 monitor = HDMI-2
+
+[bar/DP-1]
+inherit = bar/mybar
+
+; Use $ xrandr -q | grep " connected" | cut -d ' ' -f1
+monitor = DP-1
